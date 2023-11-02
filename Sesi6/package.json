@@ -1,0 +1,13 @@
+{
+  "name": "coba-coba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nyoba.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
